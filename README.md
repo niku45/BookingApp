@@ -33,5 +33,4 @@ Pick -> React -> Javascript
 # change unrestricted/restricted policy
 https://tradecoder.com/dev/nodemon/how-to-fix-error-nodemon-ps1-cannot-be-loaded/#:~:text=disabled%20%7C%20Trade%20Coder-,
 
-# Youtube Link
-https://www.youtube.com/watch?v=MpQbwtSiZ7E&t=12277s&ab_channel=CodingWithDawid
+
