@@ -17,7 +17,7 @@ Pick -> React -> Javascript
 9. yarn add date-fns
 -> yarn dev
 
-# inide api folder
+# inside api folder
 1. yarn add express
 2. yarn add cors
 3. yarn add mongoose
